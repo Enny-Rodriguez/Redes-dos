@@ -30,5 +30,4 @@ R/ la cantidad de cliente que puede tener es 1022 ya que es la cantidad de host 
 R/Es un tipo de direccion privada que no eccesible atravez de internet porque es local y solo la podemos acceder en la red, pertenese a la Class A network.
 
 ![image](https://github.com/Enny-Rodriguez/Redes-dos/assets/101887774/36a0cd91-eddf-4b0d-aa6d-92357ff885f0)
-
-
+gracias
