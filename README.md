@@ -96,17 +96,21 @@ R/Es un tipo de direccion privada que no eccesible atravez de internet porque es
 >Nota: Para calcular el retardo de la red, usaremos el protocolo HTTP via servicio WEB.
 
 SPEED.TEST
+
 ![Alt text](speed.test.jpg)
 
 NETFLIX
+
 ![Alt text](netflix-1.jpg)
 
 CLARO
+
 ![Alt text](claro.jpg)
 
 N-PERF
+
 ![Alt text](n-perf.jpg)
 
-8.
+
 
 
